@@ -19,3 +19,5 @@ Marca clinico geral?
 exame de sangue completo
 hepatologista 
 usg refazer?
+
+alteração feita
